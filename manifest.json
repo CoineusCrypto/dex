@@ -1,0 +1,30 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "https://app.uniswap.org",
+  "providedBy": {
+    "name": "Coineus",
+    "url": "https://coineus.app"
+  },
+  "icons": [
+    {
+      "src": "./images/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./images/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "name": "Coineus",
+  "description": "Swap or provide liquidity on Coineus",
+  "iconPath": "./images/logo192.png",
+  "short_name": "Coineus",
+  "start_url": ".",
+  "theme_color": "#FC72FF"
+}
